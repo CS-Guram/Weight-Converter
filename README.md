@@ -26,7 +26,7 @@ To use the Weight-Converter, follow these simple steps:
 
 ## Demo
 
-For a live demonstration of this project, you can visit the [Weight-Converter Demo](https://cs-guram.github.io/MyPortfolio/)..
+For a live demonstration of this project, you can visit the [Weight-Converter Demo](https://cs-guram.github.io/Weight-Converter/)..
 
 ## Installation
 
