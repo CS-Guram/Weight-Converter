@@ -26,16 +26,12 @@ To use the Weight-Converter, follow these simple steps:
 
 ## Demo
 
-For a live demonstration of this project, you can visit the [Weight-Converter Demo](https://example.com).
+For a live demonstration of this project, you can visit the [Weight-Converter Demo]([https://example.com](https://cs-guram.github.io/Weight-Converter/)).
 
 ## Installation
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your preferred web browser to run the Weight-Converter.
-
-## License
-
-This project is licensed under the XYZ License. For more details, please refer to the [LICENSE.md](LICENSE.md) file.
 
 ---
 
